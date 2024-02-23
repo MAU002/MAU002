@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAU002
-- 👀 I’m interested in softwear development.and anything to do with softwear....
-- 🌱 I’m currently experience three years in web design.
+- 👀 I’m a web designer and a developer
+- 🌱 I' m experienced to design devope and host a website of your desire
 - 💞️ I’m looking to collaborate on .these field Im relevant to Html, css and javascript. Soon I will be relevant to python and c++.
 - 📫 How to reach me I m from Africa Kenya within Narok 120km from Nairobi City.
 
