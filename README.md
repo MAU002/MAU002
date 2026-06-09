@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAU002
 - 👀 I’m a web designer and a developer
-- 🌱 I' m experienced to design devope and host a website of your desire
-- 💞️ I’m looking to collaborate on .these field Im relevant to Html, css and javascript.
+- 🌱 I' m a softwear engeneer actually.
+- 💞️ 
 - 📫 
 
 <!---
